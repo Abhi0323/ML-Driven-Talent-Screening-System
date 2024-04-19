@@ -6,11 +6,11 @@ In the fast-paced world of human resources, the initial resume screening process
 
 ## Objectives:
 
-Enhance Screening Efficiency: Automate the initial screening process, reducing the time HR spends on manual resume reviews.
-Improve Candidate Matching: Use advanced NLP techniques to analyze resumes and accurately match candidates to job descriptions based on skills, experience, and qualifications.
-Minimize Bias: Promote fairness in hiring practices by standardizing the screening process, thus reducing human biases that can affect candidate selection.
-Methodologies:
-
+* **Enhance Screening Efficiency:** Automate the initial screening process, reducing the time HR spends on manual resume reviews.
+  
+* **Improve Candidate Matching:** Use advanced NLP techniques to analyze resumes and accurately match candidates to job descriptions based on skills, experience, and qualifications.
+  
+* **Minimize Bias:** Promote fairness in hiring practices by standardizing the screening process, thus reducing human biases that can affect candidate selection.
 
 ## Technical Stack:
 
